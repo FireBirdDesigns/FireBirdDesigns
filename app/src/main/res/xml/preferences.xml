@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:layout="@layout/footer"/>
+
+    <Preference
+        android:summary="Fire Bird Designs is a product of Technologx. This application allows followers to engage the Fire Bird Designs Home site in Mobile form.">
+    </Preference>
+
+    <Preference
+        android:title="Fire Bird Designs"
+        android:summary="@string/app_version">
+    </Preference>
+
+    <Preference
+        android:summary="GSD Mobile Created by: Ry Gocal link can be found in the license.">
+    </Preference>
+
+    <Preference
+        android:title="GSD Mobile"
+        android:summary="@string/gsd_version">
+    </Preference>
+
+</PreferenceScreen>

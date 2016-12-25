@@ -1,5 +1,5 @@
 # FireBirdDesigns
-This is a mobile app for the Fire Bird Designs team to stay connected with you. It displays what we have coming up or what we've already made. This app was made possible by <a href="http://adf.ly/1h2cWz" target="_blank">Ry Gocal</a> the app is froma open source project of his <a href="http://adf.ly/1h2cZm" target="_blank">GSD Mobile</a>. If you need help with the app then cotact him on Hangouts rgocal09@gmail.com do not contact us about the code.
+This is a mobile app for the Fire Bird Designs team to stay connected with you. It displays what we have coming up or what we've already made. This app was made possible by <a href="http://adf.ly/1h2cWz" target="_blank">Ry Gocal</a> the app is from a open source project of his <a href="http://adf.ly/1h2cZm" target="_blank">GSD Mobile</a>. If you need help with the app then cotact him on Hangouts rgocal09@gmail.com do not contact us about the code.
 
 All our apps can be found with the following links below:
 # <a href="http://adf.ly/1h2cdm" target="_blank">Fire Bird Designs</a>
